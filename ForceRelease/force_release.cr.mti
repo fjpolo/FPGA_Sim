@@ -1,0 +1,9 @@
+{D:/Dokumenten/Altera ModelSim Workspace/ForceRelease/force_release.v} {1 {vlog -work work -stats=none {D:/Dokumenten/Altera ModelSim Workspace/ForceRelease/force_release.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module force_release
+-- Compiling module d_ff
+
+Top level modules:
+	force_release
+
+} {} {}}

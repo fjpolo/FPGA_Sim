@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Dokumenten/Altera ModelSim Workspace/ClockGenerator
+vedge_wait_example
+!s110 1522157900
+!i10b 1
+!s100 AH42=U8j=f[Gi`6kj:0P30
+IOkKB4X<a4:d;5JYcY2WTD2
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/Dokumenten/Altera ModelSim Workspace/EdgeWaitExample
+w1522157589
+8edge_wait_example.v
+Fedge_wait_example.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1522157899.000000
+!s107 edge_wait_example.v|
+!s90 -reportprogress|300|edge_wait_example.v|
+!i113 1
+tCvgOpt 0

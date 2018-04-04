@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Dokumenten/Altera ModelSim Workspace/AssignDeassign
+vd_ff
+Z0 !s110 1522155761
+!i10b 1
+!s100 [ah]]Q@EFUi^SJM6OJnTR3
+Iel?=0[lf5AEi4MLki8hJ60
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Dokumenten/Altera ModelSim Workspace/ForceRelease
+Z3 w1522155705
+Z4 8force_release.v
+Z5 Fforce_release.v
+L0 41
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1522155761.000000
+Z8 !s107 force_release.v|
+Z9 !s90 -reportprogress|300|force_release.v|
+!i113 1
+Z10 tCvgOpt 0
+vforce_release
+R0
+!i10b 1
+!s100 gTeGB5[ic3Bg>6;8gLT::2
+IBDCTL9FzAM`PU3;E8djo>3
+R1
+R2
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

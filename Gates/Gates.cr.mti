@@ -1,0 +1,8 @@
+{D:/Dokumenten/Altera ModelSim Workspace/Gates/gates.v} {1 {vlog -work work -stats=none {D:/Dokumenten/Altera ModelSim Workspace/Gates/gates.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module gates
+
+Top level modules:
+	gates
+
+} {} {}}

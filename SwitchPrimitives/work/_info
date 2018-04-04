@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Dokumenten/Altera ModelSim Workspace/TxGates
+vswitch_primitives
+!s110 1521800491
+!i10b 1
+!s100 m_MI?4;Y5^GAnI00ZC11>3
+IekB6@cckM?WkeDB[Uc6WW2
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/Dokumenten/Altera ModelSim Workspace/SwitchPrimitives
+w1521800406
+8switch_primitives.v
+Fswitch_primitives.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1521800491.000000
+!s107 switch_primitives.v|
+!s90 -reportprogress|300|switch_primitives.v|
+!i113 1
+tCvgOpt 0

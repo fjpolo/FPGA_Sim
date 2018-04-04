@@ -1,0 +1,16 @@
+{D:/Dokumenten/Altera ModelSim Workspace/Test001_Counter/first_counter.v} {1 {vlog -work work -stats=none {D:/Dokumenten/Altera ModelSim Workspace/Test001_Counter/first_counter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module first_counter
+
+Top level modules:
+	first_counter
+
+} {} {}} {D:/Dokumenten/Altera ModelSim Workspace/Test001_Counter/testbench.v} {1 {vlog -work work -stats=none {D:/Dokumenten/Altera ModelSim Workspace/Test001_Counter/testbench.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module first_counter
+-- Compiling module first_counter_tb
+
+Top level modules:
+	first_counter_tb
+
+} {} {}}

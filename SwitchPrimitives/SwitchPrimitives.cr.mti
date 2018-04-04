@@ -1,0 +1,8 @@
+{D:/Dokumenten/Altera ModelSim Workspace/SwitchPrimitives/switch_primitives.v} {1 {vlog -work work -stats=none {D:/Dokumenten/Altera ModelSim Workspace/SwitchPrimitives/switch_primitives.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module switch_primitives
+
+Top level modules:
+	switch_primitives
+
+} {} {}}

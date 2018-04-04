@@ -1,0 +1,3 @@
+vlib work
+vlog blocking_nonblocking.v
+run 100

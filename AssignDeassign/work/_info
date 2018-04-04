@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Dokumenten/Altera ModelSim Workspace/BlockingNonblocking
+vassign_deassign
+Z0 !s110 1521978800
+!i10b 1
+!s100 Ka_Qe^ce<HjfAM<4XhkMF0
+I:3=h[zbmj[GHInW3W@iE@2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Dokumenten/Altera ModelSim Workspace/AssignDeassign
+Z3 w1521909831
+Z4 8assign_deassign.v
+Z5 Fassign_deassign.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1521978800.000000
+Z8 !s107 assign_deassign.v|
+Z9 !s90 -reportprogress|300|assign_deassign.v|
+!i113 1
+Z10 tCvgOpt 0
+vd_ff
+R0
+!i10b 1
+!s100 6Vj]c8dF3>?Xn`2@H1?Zl0
+I?a1a3IOSRjf7h1h^@n5Hf3
+R1
+R2
+R3
+R4
+R5
+L0 39
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

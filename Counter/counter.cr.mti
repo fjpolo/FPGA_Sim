@@ -1,0 +1,16 @@
+D:/Modeltech_pe_edu_10.4a/Projects/Counter/first_counter.v {1 {vlog -work work -stats=none D:/Modeltech_pe_edu_10.4a/Projects/Counter/first_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module first_counter
+
+Top level modules:
+	first_counter
+
+} {} {}} D:/Modeltech_pe_edu_10.4a/Projects/Counter/first_counter_tb.v {1 {vlog -work work -stats=none D:/Modeltech_pe_edu_10.4a/Projects/Counter/first_counter_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module first_counter
+-- Compiling module first_counter_tb
+
+Top level modules:
+	first_counter_tb
+
+} {} {}}

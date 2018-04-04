@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Dokumenten/Altera ModelSim Workspace/ForceRelease
+vclk_gen
+!s110 1522156871
+!i10b 1
+!s100 2mOklWYh02Pl08Sjg9`4>0
+I`2?QNG9lSW=BeH20[0Rfn3
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/Dokumenten/Altera ModelSim Workspace/ClockGenerator
+w1522156853
+8clk_gen.v
+Fclk_gen.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1522156871.000000
+!s107 clk_gen.v|
+!s90 -reportprogress|300|clk_gen.v|
+!i113 1
+tCvgOpt 0
